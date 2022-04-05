@@ -46,3 +46,6 @@ ii)
 ![op](./op2.png
 iii)
 ![op](./op3.png)
+
+# RESULT :
+Thus, the given data is read, cleansed and the cleaned data is saved into the file.
